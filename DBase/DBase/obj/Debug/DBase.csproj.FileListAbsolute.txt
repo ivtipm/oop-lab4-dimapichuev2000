@@ -1,0 +1,10 @@
+C:\Users\dima_\source\repos\DBase\DBase\bin\Debug\DBase.exe.config
+C:\Users\dima_\source\repos\DBase\DBase\bin\Debug\DBase.exe
+C:\Users\dima_\source\repos\DBase\DBase\bin\Debug\DBase.pdb
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.csprojAssemblyReference.cache
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.Form1.resources
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.Properties.Resources.resources
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.csproj.GenerateResource.cache
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.csproj.CoreCompileInputs.cache
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.exe
+C:\Users\dima_\source\repos\DBase\DBase\obj\Debug\DBase.pdb
